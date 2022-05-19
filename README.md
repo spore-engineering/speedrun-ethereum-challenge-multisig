@@ -3,6 +3,7 @@
 **Sidequest:**
 
 ✅ Only authorized owners can transfer funds
+
 ✅ Only multisig deployer can allow other owners transfer roles
 
 - **Demo Url:** https://speedrun-challenge4.spore.engineering
